@@ -1,6 +1,5 @@
 # BestCode
 
 <!-- Donation
-E: 0xc9827d58C905CBA31a7D8e2377DE792eBbc385aF
 T: TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk
 -->
